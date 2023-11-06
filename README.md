@@ -1,3 +1,2 @@
 # AI-Project
-# Open-CV
-# Ai-Assistant 
+Creating OpenCV, Ai Assistant and many more project 
