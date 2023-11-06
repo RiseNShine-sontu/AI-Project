@@ -1,3 +1,3 @@
 # AI-Project
-# Open-CV\
+# Open-CV
 # Ai-Assistant 
